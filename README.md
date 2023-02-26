@@ -13,4 +13,7 @@
 :school: I'm co-organizer of the [#Microsoft Developer User Group Graz](https://www.meetup.com/de-DE/microsoftdevelopergraz/) 
 
 
-
+### Latest Blog Posts 📝
+  * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
+  * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
+  * [Getting started with a Development Container for Terraform On Azure](https://www.patrickkoch.dev/posts/post_24/)
