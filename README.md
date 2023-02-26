@@ -25,3 +25,21 @@ Organized and/or held lectures/workshops at following meetups:
    * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
    * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
    * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
+
+### Speaker Activities 🎤
+
+#### 2023
+coming soon:
+   * [DevOpsCon](https://devopscon.io/speaker/patrick-koch/)
+   * [DevOps Pro Europe](https://events.pinetool.ai/2928/#speakers/848962?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
+   * [Software Quality Days](https://www.software-quality-days.com/programm)
+   * [DevTalks](https://www.devtalks.ro/)
+#### 2022
+   * [Gotech World](https://www.patrickkoch.dev/conferences/conference_16/)
+   * [Global Big Data Conference](https://www.patrickkoch.dev/conferences/conference_15/)
+   * [DevOps Fusion](https://www.patrickkoch.dev/conferences/conference_14/)
+   * [Scale Up 360.com - Microservices Software Architectures](https://www.patrickkoch.dev/conferences/conference_13/)
+   * [Global Azure Austria](https://www.patrickkoch.dev/conferences/conference_12/)
+   * [The DevOps Conference](https://www.patrickkoch.dev/conferences/conference_11/)
+
+
