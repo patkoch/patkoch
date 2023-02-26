@@ -17,3 +17,11 @@
   * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
   * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
   * [Getting started with a Development Container for Terraform On Azure](https://www.patrickkoch.dev/posts/post_24/)
+
+### Microsoft Developer User Group Activities 
+
+Organized and/or held lectures/workshops at following meetups: 
+
+   * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
+   * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
+   * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
