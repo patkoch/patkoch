@@ -4,6 +4,8 @@
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
+:mortar_board:I'm a [HashiCorp Ambassador](https://www.credly.com/badges/1e32182b-596a-4a88-9919-fc373358df69) since February 2023
+
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
 :book: I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
@@ -14,6 +16,7 @@
 
 
 ### Latest Blog Posts 📝
+  * [Terraform on Azure - How to find a suitable Windows 11 Virtual Machine SKU for Terraform using Azure CLI](https://www.patrickkoch.dev/posts/post_27/)
   * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
   * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
   * [Getting started with a Development Container for Terraform On Azure](https://www.patrickkoch.dev/posts/post_24/)
