@@ -24,7 +24,7 @@
 ### Microsoft Developer User Group Activities 
 
 Organized and/or held lectures/workshops at following meetups: 
-
+   * [Azure Kubernetes Service - Fundamentals and Deep Dive into Workloads](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/292067786/)
    * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
    * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
    * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
@@ -33,6 +33,7 @@ Organized and/or held lectures/workshops at following meetups:
 
 #### 2023
 coming soon:
+   * [Global Azure Austria](https://globalazure.at/speakers/)
    * [DevOpsCon](https://devopscon.io/speaker/patrick-koch/)
    * [DevOps Pro Europe](https://events.pinetool.ai/2928/#speakers/848962?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
    * [Software Quality Days](https://www.software-quality-days.com/programm)
