@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 👋
 
-:rocket: I'm a DevOps Engineer interested in Azure, Azure DevOps, Kubernetes and Container
+:rocket: I'm a DevOps Engineer interested in Azure, Azure DevOps, Terraform, and Kubernetes
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
