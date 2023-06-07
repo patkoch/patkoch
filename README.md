@@ -4,6 +4,8 @@
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
+:mortar_board:I became a [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) in June 2023
+
 :mortar_board:I'm a [HashiCorp Ambassador](https://www.credly.com/badges/1e32182b-596a-4a88-9919-fc373358df69) since February 2023
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
