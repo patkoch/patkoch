@@ -18,6 +18,7 @@
 
 
 ### Latest Blog Posts 📝
+  * [Azure CLI - Assign a contributor role to a user](https://www.patrickkoch.dev/posts/post_29/)
   * [Terraform on Azure - How to find a suitable Windows 11 Virtual Machine SKU for Terraform using Azure CLI](https://www.patrickkoch.dev/posts/post_27/)
   * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
   * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
@@ -35,14 +36,14 @@ Organized and/or held lectures/workshops at following meetups:
 
 #### 2023
 coming soon:
-   * [Global Azure Austria](https://globalazure.at/speakers/)
-   * [DevOps Pro Europe](https://events.pinetool.ai/2928/#speakers/848962?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
-   * [Software Quality Days](https://www.software-quality-days.com/programm)
    * [HashiDays](https://hashidays.com/munich/#speakers)
    * [DevTalks](https://www.devtalks.ro/)
    
 #### 2023
-   * [DevOpsCon](https://devopscon.io/speaker/patrick-koch/)
+   * [DevOpsCon London](https://devopscon.io/speaker/patrick-koch/)
+   * [Global Azure Austria](https://globalazure.at/speakers/)
+   * [DevOps Pro Europe](https://events.pinetool.ai/2928/#speakers/848962?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
+   * [Software Quality Days](https://www.software-quality-days.com/programm)
  
 #### 2022
    * [Gotech World](https://www.patrickkoch.dev/conferences/conference_16/)
