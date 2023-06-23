@@ -33,13 +33,10 @@ Organized and/or held lectures/workshops at following meetups:
    * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
 
 ### Speaker Activities 🎤
-
-#### 2023
-coming soon:
-   * [HashiDays](https://hashidays.com/munich/#speakers)
-   * [DevTalks](https://www.devtalks.ro/)
    
 #### 2023
+   * [HashiDays](https://hashidays.com/munich/#speakers)
+   * [DevTalks](https://www.devtalks.ro/)
    * [DevOpsCon London](https://devopscon.io/speaker/patrick-koch/)
    * [Global Azure Austria](https://globalazure.at/speakers/)
    * [DevOps Pro Europe](https://events.pinetool.ai/2928/#speakers/848962?referrer%5Bpathname%5D=%2Fspeakers&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Speakers)
