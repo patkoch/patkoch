@@ -18,6 +18,7 @@
 
 
 ### Latest Blog Posts 📝
+  * [Terraform on Azure - Modules for Windows Virtual Machines](https://www.patrickkoch.dev/posts/post_30/)
   * [Azure CLI - Assign a contributor role to a user](https://www.patrickkoch.dev/posts/post_29/)
   * [Terraform on Azure - How to find a suitable Windows 11 Virtual Machine SKU for Terraform using Azure CLI](https://www.patrickkoch.dev/posts/post_27/)
   * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
@@ -26,14 +27,18 @@
 
 ### Microsoft Developer User Group Activities 
 
-Organized and/or held lectures/workshops at following meetups: 
+Organized and/or held lectures/workshops at the following meetups: 
+   * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
    * [Azure Kubernetes Service - Fundamentals and Deep Dive into Workloads](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/292067786/)
    * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
    * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
    * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
 
 ### Speaker Activities 🎤
-   
+
+upcoming:
+   * [DevOpsCon Munich]([https://devopscon.io/speaker/patrick-koch/](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/))
+
 #### 2023
    * [HashiDays](https://hashidays.com/munich/#speakers)
    * [DevTalks](https://www.devtalks.ro/)
