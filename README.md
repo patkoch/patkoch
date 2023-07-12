@@ -37,7 +37,7 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
-   * [DevOpsCon Munich]([https://devopscon.io/speaker/patrick-koch/](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/))
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/)
 
 #### 2023
    * [HashiDays](https://hashidays.com/munich/#speakers)
