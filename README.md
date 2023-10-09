@@ -28,6 +28,9 @@
 
 ### Microsoft Developer User Group Activities 
 
+upcoming:
+   * [Meetup Special - Pub Quiz](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296400605/)
+
 Organized and/or held lectures/workshops at the following meetups: 
    * [coding.starts_with("git commit") & GitHub Copilot for Infrastructure as Code](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296129603/)
    * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
