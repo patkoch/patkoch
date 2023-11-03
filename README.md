@@ -18,6 +18,7 @@
 
 
 ### Latest Blog Posts 📝
+  * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
   * [Terraform on Azure with GitHub Copilot - Creating a Kubernetes Cluster and a Container Registry](https://www.patrickkoch.dev/posts/post_31/)
   * [Terraform on Azure - Modules for Windows Virtual Machines](https://www.patrickkoch.dev/posts/post_30/)
   * [Azure CLI - Assign a contributor role to a user](https://www.patrickkoch.dev/posts/post_29/)
