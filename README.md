@@ -10,7 +10,7 @@
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
-:book: I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
+I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
 
 :speech_balloon: I'm a speaker at [conferences](https://www.patrickkoch.dev/conferences/) and meetups
 
@@ -41,9 +41,9 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
-   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/)
 
 #### 2023
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/)
    * [HashiDays](https://hashidays.com/munich/#speakers)
    * [DevTalks](https://www.devtalks.ro/)
    * [DevOpsCon London](https://devopscon.io/speaker/patrick-koch/)
