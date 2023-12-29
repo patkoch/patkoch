@@ -41,6 +41,8 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
+#### 2024
+   * [HashiTalks 2024](https://www.hashicorp.com/blog/hashitalks-2024-24-hours-of-virtual-knowledge-sharing)
 
 #### 2023
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/)
