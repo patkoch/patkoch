@@ -40,10 +40,11 @@ Organized and/or held lectures/workshops at the following meetups:
 
 ### Speaker Activities 🎤
 
-#### 2024
 upcoming:
    * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
    * [HashiTalks 2024](https://www.hashicorp.com/blog/hashitalks-2024-24-hours-of-virtual-knowledge-sharing)
+
+#### 2024  
    * [Automation Week](https://www.hiphops.io/automation-week)
 
 #### 2023
