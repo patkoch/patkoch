@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 👋
 
-:rocket: I'm a DevOps Engineer interested in Azure, Azure DevOps, Terraform, and Kubernetes
+:rocket: I'm a Cloud Adoption Engineer interested in Azure, GitHub, Terraform, and Kubernetes
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
@@ -18,6 +18,7 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 
 
 ### Latest Blog Posts 📝
+  * [Terraform on Azure - Testing of a Virtual Machine using Terratest](https://www.patrickkoch.dev/posts/post_33/)
   * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
   * [Terraform on Azure with GitHub Copilot - Creating a Kubernetes Cluster and a Container Registry](https://www.patrickkoch.dev/posts/post_31/)
   * [Terraform on Azure - Modules for Windows Virtual Machines](https://www.patrickkoch.dev/posts/post_30/)
@@ -30,6 +31,7 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 ### Microsoft Developer User Group Activities 
 
 Organized and/or held lectures/workshops at the following meetups: 
+   * [AVL Cloud Native Developer Community Day - Keynote Speaker April Edwards](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/298883980/)
    * [Meetup Special - Pub Quiz](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296400605/)
    * [coding.starts_with("git commit") & GitHub Copilot for Infrastructure as Code](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296129603/)
    * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
