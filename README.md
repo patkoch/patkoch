@@ -18,6 +18,7 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 
 
 ### Latest Blog Posts 📝
+  * [Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.patrickkoch.dev/posts/post_34/)
   * [Terraform on Azure - Testing of a Virtual Machine using Terratest](https://www.patrickkoch.dev/posts/post_33/)
   * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
   * [Terraform on Azure with GitHub Copilot - Creating a Kubernetes Cluster and a Container Registry](https://www.patrickkoch.dev/posts/post_31/)
@@ -43,11 +44,12 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
+   * [Grazer Linuxtage](https://pretalx.linuxtage.at/glt24/speaker/VTRMJZ/)
    * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
-   * [HashiTalks 2024](https://www.hashicorp.com/blog/hashitalks-2024-24-hours-of-virtual-knowledge-sharing)
-
+   
 #### 2024  
    * [Automation Week](https://www.hiphops.io/automation-week)
+   * [HashiTalks 2024](https://www.hashicorp.com/blog/hashitalks-2024-24-hours-of-virtual-knowledge-sharing)
 
 #### 2023
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/common-cloud-migration-pain-points/)
