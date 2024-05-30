@@ -1,4 +1,4 @@
-### Hi there, I'm Patrick 👋
+### Servus, I'm Patrick 👋
 
 :rocket: I'm a Cloud Adoption Engineer interested in Azure, GitHub, Terraform, and Kubernetes
 
