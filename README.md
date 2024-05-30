@@ -6,7 +6,7 @@
 
 :mortar_board:I became a [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) in June 2023
 
-:mortar_board:I'm a [HashiCorp Ambassador](https://www.credly.com/badges/1e32182b-596a-4a88-9919-fc373358df69) since February 2023
+:mortar_board:I'm a two-time [HashiCorp Ambassador](https://www.credly.com/badges/7a887c80-e5c7-4469-afcd-644f1ca57660) since February 2023
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
@@ -44,10 +44,13 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
-   * [Grazer Linuxtage](https://pretalx.linuxtage.at/glt24/speaker/VTRMJZ/)
+   
    * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
+   * [HashiDays Munich 2024](https://www.hashicorp.com/conferences/hashidays/munich#agenda)
    
 #### 2024  
+   * [Global Azure Austria 2024](https://www.youtube.com/live/x0xlzGjKcf4)
+   * [Grazer Linuxtage](https://pretalx.linuxtage.at/glt24/speaker/VTRMJZ/)
    * [Automation Week](https://www.hiphops.io/automation-week)
    * [HashiTalks 2024](https://www.hashicorp.com/blog/hashitalks-2024-24-hours-of-virtual-knowledge-sharing)
 
