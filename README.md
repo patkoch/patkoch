@@ -4,7 +4,7 @@
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
-:mortar_board:I became a [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) in June 2023
+:mortar_board:I'm a two-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
 
 :mortar_board:I'm a two-time [HashiCorp Ambassador](https://www.credly.com/badges/7a887c80-e5c7-4469-afcd-644f1ca57660) since February 2023
 
@@ -44,11 +44,12 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
-   
-   * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
-   * [HashiDays Munich 2024](https://www.hashicorp.com/conferences/hashidays/munich#agenda)
+   * [DevOpsDays Ljubljana](https://devopsdays.si/)
+   * [DevOpsCon Munich](https://devopscon.io/speaker/patrick-koch/)
    
 #### 2024  
+   * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
+   * [HashiDays Munich 2024](https://www.hashicorp.com/conferences/hashidays/munich#agenda)
    * [Global Azure Austria 2024](https://www.youtube.com/live/x0xlzGjKcf4)
    * [Grazer Linuxtage](https://pretalx.linuxtage.at/glt24/speaker/VTRMJZ/)
    * [Automation Week](https://www.hiphops.io/automation-week)
