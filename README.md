@@ -32,7 +32,12 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 ### Microsoft Developer User Group Activities 
 
 Organized and/or held lectures/workshops at the following meetups: 
+#### 2024
+   * [Joint Session by Microsoft Developer User Group & Cloud Native Computing Graz](https://www.meetup.com/microsoftdevelopergraz/events/301828751)
+   * [Build 2024 – Watch Party with BBQ and beer](https://www.meetup.com/microsoftdevelopergraz/events/300495971/)
+   * [Next Stop: Global Azure Austria 2024](https://www.meetup.com/microsoftdevelopergraz/events/299908693/)
    * [AVL Cloud Native Developer Community Day - Keynote Speaker April Edwards](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/298883980/)
+#### 2023
    * [Meetup Special - Pub Quiz](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296400605/)
    * [coding.starts_with("git commit") & GitHub Copilot for Infrastructure as Code](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296129603/)
    * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
