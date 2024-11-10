@@ -33,6 +33,8 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 
 Organized and/or held lectures/workshops at the following meetups: 
 #### 2024
+   * [.NET Conf 2024 Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/303812805)
+   * [Coding at the edge of AI](https://www.meetup.com/microsoftdevelopergraz/events/30352548)
    * [Joint Session by Microsoft Developer User Group & Cloud Native Computing Graz](https://www.meetup.com/microsoftdevelopergraz/events/301828751)
    * [Build 2024 – Watch Party with BBQ and beer](https://www.meetup.com/microsoftdevelopergraz/events/300495971/)
    * [Next Stop: Global Azure Austria 2024](https://www.meetup.com/microsoftdevelopergraz/events/299908693/)
@@ -49,10 +51,11 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming:
-   * [DevOpsDays Ljubljana](https://devopsdays.si/)
+   * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
    * [DevOpsCon Munich](https://devopscon.io/speaker/patrick-koch/)
    
 #### 2024  
+   * [DevOpsDays Ljubljana](https://devopsdays.si/)
    * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
    * [HashiDays Munich 2024](https://www.hashicorp.com/conferences/hashidays/munich#agenda)
    * [Global Azure Austria 2024](https://www.youtube.com/live/x0xlzGjKcf4)
