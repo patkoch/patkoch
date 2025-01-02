@@ -1,6 +1,6 @@
 ### Servus, I'm Patrick 👋
 
-:rocket: I'm a Cloud Adoption Engineer interested in Azure, GitHub, Terraform, and Kubernetes
+:rocket: I'm a Cloud Adoption Engineer interested in Azure, GitHub, Terraform
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
@@ -18,6 +18,7 @@ I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.p
 
 
 ### Latest Blog Posts 📝
+  * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
   * [Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.patrickkoch.dev/posts/post_34/)
   * [Terraform on Azure - Testing of a Virtual Machine using Terratest](https://www.patrickkoch.dev/posts/post_33/)
   * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
@@ -50,11 +51,11 @@ Organized and/or held lectures/workshops at the following meetups:
 
 ### Speaker Activities 🎤
 
-upcoming:
+upcoming in 2025:
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
-   * [DevOpsCon Munich](https://devopscon.io/speaker/patrick-koch/)
-   
+     
 #### 2024  
+   * [DevOpsCon Munich](https://devopscon.io/speaker/patrick-koch/)
    * [DevOpsDays Ljubljana](https://devopsdays.si/)
    * [DevOpsCon Berlin](https://devopscon.io/speaker/patrick-koch/)
    * [HashiDays Munich 2024](https://www.hashicorp.com/conferences/hashidays/munich#agenda)
