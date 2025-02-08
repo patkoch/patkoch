@@ -55,6 +55,7 @@ upcoming in 2025:
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
+-    * [HashiTalks 2025](https://events.hashicorp.com/hashitalks2025)
      
 #### 2024  
    * [DevOpsCon Munich](https://devopscon.io/speaker/patrick-koch/)
