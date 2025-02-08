@@ -52,6 +52,8 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming in 2025:
+   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
+   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
      
 #### 2024  
