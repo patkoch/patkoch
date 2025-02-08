@@ -10,7 +10,7 @@
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
-I'm a blogger about DevOps experiences on Azure: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
+I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Code: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
 
 :speech_balloon: I'm a speaker at [conferences](https://www.patrickkoch.dev/conferences/) and meetups
 
