@@ -6,7 +6,7 @@
 
 :mortar_board:I'm a two-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
 
-:mortar_board:I'm a two-time [HashiCorp Ambassador](https://www.credly.com/badges/7a887c80-e5c7-4469-afcd-644f1ca57660) since February 2023
+:mortar_board:I'm a three-time [HashiCorp Ambassador](https://www.credly.com/badges/baf99553-aa47-4d00-b5a6-1afd692d35dc) since February 2023
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
@@ -32,7 +32,11 @@ I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Co
 
 ### Microsoft Developer User Group Activities 
 
-Organized and/or held lectures/workshops at the following meetups: 
+Organized and/or held lectures/workshops at the following meetups:
+
+#### 2025
+ * [AI Everywhere: Local vs. Cloud Deployment of Large Language Models](https://www.meetup.com/microsoftdevelopergraz/events/306574491/)
+
 #### 2024
    * [.NET Conf 2024 Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/303812805)
    * [Coding at the edge of AI](https://www.meetup.com/microsoftdevelopergraz/events/30352548)
@@ -54,6 +58,10 @@ Organized and/or held lectures/workshops at the following meetups:
 upcoming in 2025:
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
+   * [Global Azure Austria](https://globalazure.at/sessions/#3)
+   * [Grazer Linux Tage](https://pretalx.linuxtage.at/glt25/speaker/VTRMJZ/)
+     
+#### 2025
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
    * [HashiTalks 2025](https://events.hashicorp.com/hashitalks2025)
      
