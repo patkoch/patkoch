@@ -14,7 +14,9 @@ I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Co
 
 :speech_balloon: I'm a speaker at [conferences](https://www.patrickkoch.dev/conferences/) and meetups
 
-:school: I'm co-organizer of the [#Microsoft Developer User Group Graz](https://www.meetup.com/de-DE/microsoftdevelopergraz/) 
+:school: I'm in the leadership team of organizing the [#Microsoft Developer User Group Graz](https://www.meetup.com/de-DE/microsoftdevelopergraz/) 
+
+:speech_balloon: I'm in the leadership team of organizing the [DevOpsDaysGraz](https://www.devopsdays.at/)
 
 
 ### Latest Blog Posts 📝
