@@ -10,6 +10,8 @@
 
 :mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
+:speech_balloon:I'm in the organizer team of the [DevOpsDays Graz 2025](https://www.devopsdays.at/)
+
 I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Code: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
 
 :speech_balloon: I'm a speaker at [conferences](https://www.patrickkoch.dev/conferences/) and meetups
@@ -37,6 +39,7 @@ I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Co
 Organized and/or held lectures/workshops at the following meetups:
 
 #### 2025
+ * [MS Build Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/307527107)
  * [AI Everywhere: Local vs. Cloud Deployment of Large Language Models](https://www.meetup.com/microsoftdevelopergraz/events/306574491/)
 
 #### 2024
@@ -60,10 +63,10 @@ Organized and/or held lectures/workshops at the following meetups:
 upcoming in 2025:
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
+
+#### 2025
    * [Global Azure Austria](https://globalazure.at/sessions/#3)
    * [Grazer Linux Tage](https://pretalx.linuxtage.at/glt25/speaker/VTRMJZ/)
-     
-#### 2025
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
    * [HashiTalks 2025](https://events.hashicorp.com/hashitalks2025)
      
