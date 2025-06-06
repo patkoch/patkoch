@@ -18,8 +18,6 @@
 
 :school: I'm in the leadership team of organizing the [#Microsoft Developer User Group Graz](https://www.meetup.com/de-DE/microsoftdevelopergraz/) 
 
-:speech_balloon: I'm in the leadership team of organizing the [DevOpsDaysGraz](https://www.devopsdays.at/)
-
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
