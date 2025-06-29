@@ -4,13 +4,13 @@
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
-:mortar_board:I'm a two-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
+:mortar_board: I'm a two-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
 
-:mortar_board:I'm a three-time [HashiCorp Ambassador](https://www.credly.com/badges/baf99553-aa47-4d00-b5a6-1afd692d35dc) since February 2023
+:mortar_board: I'm a three-time [HashiCorp Ambassador](https://www.credly.com/badges/baf99553-aa47-4d00-b5a6-1afd692d35dc) since February 2023
 
-:mortar_board:I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
+:mortar_board: I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
-:speech_balloon:I'm in the organizer team of the [DevOpsDays Graz 2025](https://www.devopsdays.at/)
+:speech_balloon: I'm in the organizer team of the [DevOpsDays Graz 2025](https://www.devopsdays.at/)
 
 📝 I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Code: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
 
@@ -18,6 +18,11 @@
 
 :school: I'm in the leadership team of organizing the [#Microsoft Developer User Group Graz](https://www.meetup.com/de-DE/microsoftdevelopergraz/) 
 
+:construction_worker: I'm in the leadership team of the non-profit association [Coding Community Graz](https://coding-community.at/)
+
+### Conference Organizer: DevOpsDays Graz
+
+Together with my friends from the Coding Community Graz, I'm organizing the very first DevOpsDays event - [DevOpsDays Graz](https://www.devopsdays.at/) in Austria!
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
