@@ -59,10 +59,13 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming in 2025:
-   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
-   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-iac-github-automation/)
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-iac-introduction/)
 
 #### 2025
+   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
+   * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
    * [Global Azure Austria](https://globalazure.at/sessions/#3)
    * [Grazer Linux Tage](https://pretalx.linuxtage.at/glt25/speaker/VTRMJZ/)
    * [BASTA! Frankfurt](https://basta.net/speaker/patrick-koch/)
