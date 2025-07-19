@@ -4,7 +4,7 @@
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
-:mortar_board: I'm a two-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
+:mortar_board: I'm a three-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
 
 :mortar_board: I'm a three-time [HashiCorp Ambassador](https://www.credly.com/badges/baf99553-aa47-4d00-b5a6-1afd692d35dc) since February 2023
 
