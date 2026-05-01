@@ -40,6 +40,8 @@ Together with my friends from the Coding Community Graz, I'm organizing the very
 ### Microsoft Developer User Group Activities 
 
 Organized and/or held lectures/workshops at the following meetups:
+#### 2026
+* [GitHub Copilot Dev Days | Graz](https://www.meetup.com/microsoftdevelopergraz/events/313478633/)
 
 #### 2025
  * [MS Build Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/307527107)
@@ -63,12 +65,19 @@ Organized and/or held lectures/workshops at the following meetups:
 
 ### Speaker Activities 🎤
 
-upcoming in 2025:
+upcoming in 2026:
+
+   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/saas-infrastructure-terraform-implementation/)
+   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
+
+#### 2026
+   * [DevOpsCon Amsterdam](https://devopscon.io/cloud-platforms-serverless/terraform-iac-github-automation/)
+   * [DevOpsCon Amsterdam](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
+
+#### 2025
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-iac-github-automation/)
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-iac-introduction/)
-
-#### 2025
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/automating-terraform-with-github/)
    * [DevOpsCon Berlin](https://devopscon.io/cloud-platforms-serverless/terraform-workshop/)
    * [Global Azure Austria](https://globalazure.at/sessions/#3)
