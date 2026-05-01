@@ -10,7 +10,7 @@
 
 :mortar_board: I'm an [Azure Hero](https://www.azureheroes.community/user/15856) since August 2022
 
-:speech_balloon: I'm in the organizer team of the [DevOpsDays Graz 2025](https://www.devopsdays.at/)
+:speech_balloon: I'm in the organizer team of the [DevOpsDays Graz 2026](https://www.devopsdays.at/)
 
 📝 I'm a blogger about DevOps experiences on Azure focusing on Infrastructure as Code: [patrickkoch.dev](https://www.patrickkoch.dev/posts/)
 
