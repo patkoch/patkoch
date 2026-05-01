@@ -22,7 +22,7 @@
 
 ### Conference Organizer: DevOpsDays Graz
 
-Together with my friends from the Coding Community Graz, I'm organizing the very first DevOpsDays event - [DevOpsDays Graz](https://www.devopsdays.at/) in Austria!
+Together with my friends from the Coding Community Graz, I'm organizing the DevOpsDays Graz events - we are working on the already second edition: [DevOpsDays Graz](https://www.devopsdays.at/)
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
