@@ -71,11 +71,13 @@ Organized and/or held lectures/workshops at the following meetups:
 ### Speaker Activities 🎤
 
 upcoming in 2026:
-
-   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/saas-infrastructure-terraform-implementation/)
-   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-agent-driven-world)
+   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-modules-cicd-automation-workshop/)
+   * [DevCon Romania 2026](https://www.dev-con.ro/speakers/20-Patrick+Koch)
 
 #### 2026
+   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/saas-infrastructure-terraform-implementation/)
+   * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
    * [DevOpsCon Amsterdam](https://devopscon.io/cloud-platforms-serverless/terraform-iac-github-automation/)
    * [DevOpsCon Amsterdam](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
 
