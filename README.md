@@ -1,10 +1,12 @@
-### Servus, I'm Patrick 👋
+### Hi, I'm Patrick 👋
 
 :rocket: I'm a Cloud Adoption Engineer interested in Azure, GitHub, Terraform
 
 :construction_worker: I'm an employee of [AVL List](https://www.avl.com)
 
 :mortar_board: I'm a four-time [Microsoft MVP](https://mvp.microsoft.com/de-de/PublicProfile/5005313?fullName=Patrick%20Koch) since June 2023
+
+:mortar_board: I'm an [IBM Champion](https://www.credly.com/badges/11907af8-0407-4d4e-aa4f-ce8b597d929b) since March 2026
 
 :mortar_board: I'm a three-time [HashiCorp Ambassador](https://www.credly.com/badges/baf99553-aa47-4d00-b5a6-1afd692d35dc) since February 2023
 
@@ -22,7 +24,7 @@
 
 ### Conference Organizer: DevOpsDays Graz
 
-Together with my friends from the Coding Community Graz, I'm organizing the DevOpsDays Graz events - we are working on the already second edition: [DevOpsDays Graz](https://www.devopsdays.at/)
+Together with my friends from the [Coding Community Graz](https://coding-community.at/), we are organizing the DevOpsDays Graz events - second edition was successfully organized in September 2016: [DevOpsDays Graz](https://www.devopsdays.at/)
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
@@ -41,6 +43,9 @@ Together with my friends from the Coding Community Graz, I'm organizing the DevO
 
 Organized and/or held lectures/workshops at the following meetups:
 #### 2026
+
+* [Dev Days Graz](https://www.meetup.com/microsoftdevelopergraz/events/316733053)
+* [From Specs to Speed](https://www.meetup.com/microsoftdevelopergraz/events/316271454)
 * [GitHub Copilot Dev Days | Graz](https://www.meetup.com/microsoftdevelopergraz/events/313478633/)
 
 #### 2025
