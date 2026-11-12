@@ -24,7 +24,7 @@
 
 ### Conference Organizer: DevOpsDays Graz
 
-Together with my friends from the [Coding Community Graz](https://coding-community.at/), we are organizing the DevOpsDays Graz events - second edition was successfully organized in September 2016: [DevOpsDays Graz](https://www.devopsdays.at/)
+Together with my friends from the [Coding Community Graz](https://coding-community.at/), we are organizing the DevOpsDays Graz events - second edition was successfully organized in September 2026: [DevOpsDays Graz](https://www.devopsdays.at/)
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
