@@ -26,24 +26,11 @@
 
 Together with my friends from the [Coding Community Graz](https://coding-community.at/), we are organizing the DevOpsDays Graz events - second edition was successfully organized in September 2026: [DevOpsDays Graz](https://www.devopsdays.at/)
 
-### Latest Blog Posts 📝
-  * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
-  * [Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.patrickkoch.dev/posts/post_34/)
-  * [Terraform on Azure - Testing of a Virtual Machine using Terratest](https://www.patrickkoch.dev/posts/post_33/)
-  * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
-  * [Terraform on Azure with GitHub Copilot - Creating a Kubernetes Cluster and a Container Registry](https://www.patrickkoch.dev/posts/post_31/)
-  * [Terraform on Azure - Modules for Windows Virtual Machines](https://www.patrickkoch.dev/posts/post_30/)
-  * [Azure CLI - Assign a contributor role to a user](https://www.patrickkoch.dev/posts/post_29/)
-  * [Terraform on Azure - How to find a suitable Windows 11 Virtual Machine SKU for Terraform using Azure CLI](https://www.patrickkoch.dev/posts/post_27/)
-  * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
-  * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
-  * [Getting started with a Development Container for Terraform On Azure](https://www.patrickkoch.dev/posts/post_24/)
-
 ### Microsoft Developer User Group Activities 
 
 Organized and/or held lectures/workshops at the following meetups:
-#### 2026
 
+#### 2026
 * [Dev Days Graz](https://www.meetup.com/microsoftdevelopergraz/events/316733053)
 * [From Specs to Speed](https://www.meetup.com/microsoftdevelopergraz/events/316271454)
 * [GitHub Copilot Dev Days | Graz](https://www.meetup.com/microsoftdevelopergraz/events/313478633/)
@@ -72,10 +59,9 @@ Organized and/or held lectures/workshops at the following meetups:
 
 upcoming in 2026:
    * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-agent-driven-world)
-   * [DevOpsCon Munich](https://devopscon.io/cloud-platforms-serverless/terraform-modules-cicd-automation-workshop/)
-   * [DevCon Romania 2026](https://www.dev-con.ro/speakers/20-Patrick+Koch)
 
 #### 2026
+   * [DevCon Romania 2026](https://www.dev-con.ro/speakers/20-Patrick+Koch)
    * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/saas-infrastructure-terraform-implementation/)
    * [DevOpsCon London](https://devopscon.io/cloud-platforms-serverless/terraform-workshop-introduction-azure-dev-container/)
    * [DevOpsCon Amsterdam](https://devopscon.io/cloud-platforms-serverless/terraform-iac-github-automation/)
@@ -119,4 +105,15 @@ upcoming in 2026:
    * [Global Azure Austria](https://www.patrickkoch.dev/conferences/conference_12/)
    * [The DevOps Conference](https://www.patrickkoch.dev/conferences/conference_11/)
 
-
+### Latest Blog Posts 📝
+  * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
+  * [Creating a custom Dev Container for your GitHub Codespace to start with Terraform on Azure](https://www.patrickkoch.dev/posts/post_34/)
+  * [Terraform on Azure - Testing of a Virtual Machine using Terratest](https://www.patrickkoch.dev/posts/post_33/)
+  * [Create and manage a Service Principal using the Azure CLI](https://www.patrickkoch.dev/posts/post_32/)
+  * [Terraform on Azure with GitHub Copilot - Creating a Kubernetes Cluster and a Container Registry](https://www.patrickkoch.dev/posts/post_31/)
+  * [Terraform on Azure - Modules for Windows Virtual Machines](https://www.patrickkoch.dev/posts/post_30/)
+  * [Azure CLI - Assign a contributor role to a user](https://www.patrickkoch.dev/posts/post_29/)
+  * [Terraform on Azure - How to find a suitable Windows 11 Virtual Machine SKU for Terraform using Azure CLI](https://www.patrickkoch.dev/posts/post_27/)
+  * [Azure Virtual Network explained with Terraform](https://www.patrickkoch.dev/posts/post_26/)
+  * [Terraform on Azure - Use a Network Security Group for a Windows Virtual Machine](https://www.patrickkoch.dev/posts/post_25/)
+  * [Getting started with a Development Container for Terraform On Azure](https://www.patrickkoch.dev/posts/post_24/)
