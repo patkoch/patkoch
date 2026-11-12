@@ -26,35 +26,6 @@
 
 Together with my friends from the [Coding Community Graz](https://coding-community.at/), we are organizing the DevOpsDays Graz events - second edition was successfully organized in September 2026: [DevOpsDays Graz](https://www.devopsdays.at/)
 
-### Microsoft Developer User Group Activities 
-
-Organized and/or held lectures/workshops at the following meetups:
-
-#### 2026
-* [Dev Days Graz](https://www.meetup.com/microsoftdevelopergraz/events/316733053)
-* [From Specs to Speed](https://www.meetup.com/microsoftdevelopergraz/events/316271454)
-* [GitHub Copilot Dev Days | Graz](https://www.meetup.com/microsoftdevelopergraz/events/313478633/)
-
-#### 2025
- * [MS Build Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/307527107)
- * [AI Everywhere: Local vs. Cloud Deployment of Large Language Models](https://www.meetup.com/microsoftdevelopergraz/events/306574491/)
-
-#### 2024
-   * [.NET Conf 2024 Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/303812805)
-   * [Coding at the edge of AI](https://www.meetup.com/microsoftdevelopergraz/events/30352548)
-   * [Joint Session by Microsoft Developer User Group & Cloud Native Computing Graz](https://www.meetup.com/microsoftdevelopergraz/events/301828751)
-   * [Build 2024 – Watch Party with BBQ and beer](https://www.meetup.com/microsoftdevelopergraz/events/300495971/)
-   * [Next Stop: Global Azure Austria 2024](https://www.meetup.com/microsoftdevelopergraz/events/299908693/)
-   * [AVL Cloud Native Developer Community Day - Keynote Speaker April Edwards](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/298883980/)
-#### 2023
-   * [Meetup Special - Pub Quiz](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296400605/)
-   * [coding.starts_with("git commit") & GitHub Copilot for Infrastructure as Code](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296129603/)
-   * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
-   * [Azure Kubernetes Service - Fundamentals and Deep Dive into Workloads](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/292067786/)
-   * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
-   * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
-   * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
-
 ### Speaker Activities 🎤
 
 upcoming in 2026:
@@ -104,6 +75,35 @@ upcoming in 2026:
    * [Scale Up 360.com - Microservices Software Architectures](https://www.patrickkoch.dev/conferences/conference_13/)
    * [Global Azure Austria](https://www.patrickkoch.dev/conferences/conference_12/)
    * [The DevOps Conference](https://www.patrickkoch.dev/conferences/conference_11/)
+
+### Microsoft Developer User Group Activities 
+
+Organized and/or held lectures/workshops at the following meetups:
+
+#### 2026
+* [Dev Days Graz](https://www.meetup.com/microsoftdevelopergraz/events/316733053)
+* [From Specs to Speed](https://www.meetup.com/microsoftdevelopergraz/events/316271454)
+* [GitHub Copilot Dev Days | Graz](https://www.meetup.com/microsoftdevelopergraz/events/313478633/)
+
+#### 2025
+ * [MS Build Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/307527107)
+ * [AI Everywhere: Local vs. Cloud Deployment of Large Language Models](https://www.meetup.com/microsoftdevelopergraz/events/306574491/)
+
+#### 2024
+   * [.NET Conf 2024 Streaming Party](https://www.meetup.com/microsoftdevelopergraz/events/303812805)
+   * [Coding at the edge of AI](https://www.meetup.com/microsoftdevelopergraz/events/30352548)
+   * [Joint Session by Microsoft Developer User Group & Cloud Native Computing Graz](https://www.meetup.com/microsoftdevelopergraz/events/301828751)
+   * [Build 2024 – Watch Party with BBQ and beer](https://www.meetup.com/microsoftdevelopergraz/events/300495971/)
+   * [Next Stop: Global Azure Austria 2024](https://www.meetup.com/microsoftdevelopergraz/events/299908693/)
+   * [AVL Cloud Native Developer Community Day - Keynote Speaker April Edwards](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/298883980/)
+#### 2023
+   * [Meetup Special - Pub Quiz](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296400605/)
+   * [coding.starts_with("git commit") & GitHub Copilot for Infrastructure as Code](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/296129603/)
+   * [Orchard CMS & Storing Azure configurations and secrets](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/293881924/)
+   * [Azure Kubernetes Service - Fundamentals and Deep Dive into Workloads](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/292067786/)
+   * [Sustainable AI - Cloud Cost Optimization](https://www.meetup.com/de-DE/microsoftdevelopergraz/events/290191576/)
+   * [Automating Azure Infrastructure with Terraform](https://www.meetup.com/microsoftdevelopergraz/events/289763690/)
+   * [Azure: Building up basic knowledge - Workshop](https://www.meetup.com/microsoftdevelopergraz/events/288434666/)
 
 ### Latest Blog Posts 📝
   * [Terraform on Azure - How to deploy an OpenAI Service with a GPT-4 model](https://www.patrickkoch.dev/posts/post_35/)
